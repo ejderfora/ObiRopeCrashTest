@@ -1,0 +1,17 @@
+*waterBottle'ı perfabini ve kod
+*extinguishOil kod
+
+
+bottle'ın tagi "Bottle"
+"WaterParticle" tagi yap ve su particle'ına ata
+
+extinguishOil kodunu yenile
+
+kodun olduğu objeye triggerı kapalı bir box collider koy tam tavanın boyutunda
+
+sphere collierı biraz 0.2 yukarı çek 
+
+sphere collider triggerlı ,boxcollider triggersız olucak
+
+yenilenen kodun audio clip ataması yap
+

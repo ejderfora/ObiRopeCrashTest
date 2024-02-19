@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Holster
+  - Hook
+  - HookLine
+  - HookWarningTrigger
+  - LadderClimbSuccessTrigger
+  - LadderHookWarningTrigger
+  - Hand
+  - DeathTrigger
+  - DummyPPE
+  - HelmetWearTrigger
+  - HookLineExitTrigger
+  - HandTrigger
+  - DoorTrigger
+  - DoorExitTrigger
+  - ABC
+  - ExHandle
+  - WETCHEM
+  - OilTrigger
+  - FOAM
+  - SolidTrigger
+  - ChemTrigger
+  - CO2
+  - GasTrigger
+  - ElectricalTrigger
+  - CAP
+  - Particle
+  - PlaceAble
+  - ManliftEnterExitTrigger
+  - Bottle
+  - PlasticMat
+  - Duba
+  - Lock
+  - MultipleLock
+  - WarningSign
+  - BrokenGear
+  - Gear
+  - Band
+  - Strip
+  - WaterParticle
+  - WATER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HookLineLayer
+  - HookLineLimits
+  - Hook
+  - AutoHandPlayer
+  - Helmet
+  - Non-InteractableUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - HandPlayer
+  - Hand
+  - Grabbable
+  - Grabbing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
